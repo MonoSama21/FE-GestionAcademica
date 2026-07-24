@@ -1,11 +1,11 @@
 [
   {
-    "id": "30019045993",
-    "runNumber": 128,
+    "id": "30102908723",
+    "runNumber": 129,
     "tag": "@DailyTest",
     "ambiente": "certificacion",
-    "date": "2026-07-23T15:07:31Z",
-    "dateFormatted": "23/07/2026 15:07",
+    "date": "2026-07-24T14:53:27Z",
+    "dateFormatted": "24/07/2026 14:53",
     "total": 0,
     "passed": 0,
     "failed": 0,
@@ -16,7 +16,7 @@
     "commit": "4fcdcd81cffd7acf1bb950c77f738ab94e43f9da",
     "commitShort": "4fcdcd8",
     "actor": "MonoSama21",
-    "reportUrl": "https://MonoSama21.github.io/FE-GestionAcademica/reports/30019045993",
-    "actionsUrl": "https://github.com/MonoSama21/FE-GestionAcademica/actions/runs/30019045993"
+    "reportUrl": "https://MonoSama21.github.io/FE-GestionAcademica/reports/30102908723",
+    "actionsUrl": "https://github.com/MonoSama21/FE-GestionAcademica/actions/runs/30102908723"
   }
 ]
